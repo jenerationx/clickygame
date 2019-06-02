@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import FriendCard from "./components/FriendCard";
 import Wrapper from "./components/Wrapper";
-import Title from "./components/Title";
+import Navbar from "./components/Navbar";
 import friends from "./friends.json";
 
 class App extends Component {
@@ -20,8 +20,9 @@ class App extends Component {
   // Map over this.state.friends and render a FriendCard component for each friend object
   render() {
     return (
+       
       <Wrapper>
-        <Title>Clicky Game</Title>
+      <br />
         {this.state.friends.map(friend => (
           <FriendCard
             removeFriend={this.removeFriend}

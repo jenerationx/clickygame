@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "name": "SpongeBob",
-    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/003cap_ons_crd_03.jpg",
+    "name": "Pooh",
+    "image": "pooh.png",
     "occupation": "Fry Cook",
     "location": "A Pineapple Under the Sea"
   },

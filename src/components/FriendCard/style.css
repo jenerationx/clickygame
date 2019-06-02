@@ -1,14 +1,13 @@
 .card {
   background: #fff;
-  /* height: 325px;
-  width: 325px; */
+  /* height: 200px;
+  width: 200px; */
 }
-.card-image {
-  height: 190px;
-  width: 250px;
-  
-  /* overflow: hidden; */
-  }
+.img-thumbnail{
+  height: 300px;
+  width: 300px;
+
+}
 /* .card > .img-container {
   height: 60%;
   overflow: hidden;
