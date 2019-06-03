@@ -1,15 +1,28 @@
 {
   "files": {
-    "main.css": "/clickygame/static/css/main.9eeb0f5f.chunk.css",
-    "main.js": "/clickygame/static/js/main.fdac858a.chunk.js",
-    "main.js.map": "/clickygame/static/js/main.fdac858a.chunk.js.map",
+    "main.css": "/clickygame/static/css/main.3813556d.chunk.css",
+    "main.js": "/clickygame/static/js/main.67acbf38.chunk.js",
+    "main.js.map": "/clickygame/static/js/main.67acbf38.chunk.js.map",
     "runtime~main.js": "/clickygame/static/js/runtime~main.bb8261cb.js",
     "runtime~main.js.map": "/clickygame/static/js/runtime~main.bb8261cb.js.map",
     "static/js/2.6efc73d3.chunk.js": "/clickygame/static/js/2.6efc73d3.chunk.js",
     "static/js/2.6efc73d3.chunk.js.map": "/clickygame/static/js/2.6efc73d3.chunk.js.map",
     "index.html": "/clickygame/index.html",
-    "precache-manifest.961af71fe87f64e8a60722fc86bc8604.js": "/clickygame/precache-manifest.961af71fe87f64e8a60722fc86bc8604.js",
+    "precache-manifest.78fa9c542d2ecd59350596d2a2cc5690.js": "/clickygame/precache-manifest.78fa9c542d2ecd59350596d2a2cc5690.js",
     "service-worker.js": "/clickygame/service-worker.js",
-    "static/css/main.9eeb0f5f.chunk.css.map": "/clickygame/static/css/main.9eeb0f5f.chunk.css.map"
+    "static/css/main.3813556d.chunk.css.map": "/clickygame/static/css/main.3813556d.chunk.css.map",
+    "static/media/Mickey_Mouse.png": "/clickygame/static/media/Mickey_Mouse.240550a8.png",
+    "static/media/bambi.png": "/clickygame/static/media/bambi.0efcfd0b.png",
+    "static/media/daisy.png": "/clickygame/static/media/daisy.136e7ea6.png",
+    "static/media/donald.png": "/clickygame/static/media/donald.32d14b2a.png",
+    "static/media/dumbo.png": "/clickygame/static/media/dumbo.51fde845.png",
+    "static/media/goofy.png": "/clickygame/static/media/goofy.dbc546a8.png",
+    "static/media/lady_tramp.png": "/clickygame/static/media/lady_tramp.4a1670ec.png",
+    "static/media/style.css": "/clickygame/static/media/mickey_background.ec2d0ccd.jpg",
+    "static/media/minnie_mouse.png": "/clickygame/static/media/minnie_mouse.0eca4893.png",
+    "static/media/peter_pan.png": "/clickygame/static/media/peter_pan.b38c85c7.png",
+    "static/media/pinocchio.png": "/clickygame/static/media/pinocchio.3dc64846.png",
+    "static/media/pluto.png": "/clickygame/static/media/pluto.c686d46f.png",
+    "static/media/pooh.png": "/clickygame/static/media/pooh.39ee5295.png"
   }
 }
