@@ -1,6 +1,7 @@
 .wrapper {
   padding-top: 50px;
-  background: #ECEFF1;
+  background: rgb(37, 16, 131);
+  background-image: url(../../images/mickey_background.jpg);
   height: 100%;
   display: flex;
   flex-flow: row wrap;
