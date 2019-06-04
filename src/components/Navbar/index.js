@@ -1,21 +1,19 @@
 import React from "react";
 import "./style.css";
 
-function Navbar(props) {
-  return <nav class="navbar navbar-expand-lg bg-danger text-white sticky-top">
+const Navbar = props => 
+<nav className="navbar navbar-expand-lg bg-danger text-white sticky-top">
   <div>Clicky Game</div>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
+  <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+    <span className="navbar-toggler-icon"></span>
   </button>
-  <div class="collapse navbar-collapse mr-auto " id="navbarText">
-    <ul class="navbar-nav mr-auto">
-    </ul>
-    <span class="navbar-text">
-     Score: 0  High Score: 0
+  <div className="ml-auto">
+    <span className="navbar-text">
+     Score: {props.score}  High Score: {props.highscore}
     </span>
   </div>
 </nav>
 
-}
+
 
 export default Navbar;

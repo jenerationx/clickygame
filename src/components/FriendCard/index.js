@@ -3,12 +3,9 @@ import "./style.css";
 
 function FriendCard(props) {
   return (
-    <div class="col-3">
-      <div class="card">
-        <img class="img-fluid" alt={props.name} src={require("../../images/" + props.image)} />
-        {/* <span onClick={() => props.removeFriend(props.id)} className="remove">
-            𝘅
-      </span> */}
+    <div className="col-3">
+      <div className="card" onClick={() => props.clickedFriend(props.id)}  >
+        <img className="img-fluid" alt={props.name} src={require("../../images/" + props.image)} />
       </div>
     </div>
   );
