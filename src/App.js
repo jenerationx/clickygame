@@ -9,27 +9,32 @@ class App extends Component {
   // Setting this.state.friends to the friends json array
   state = {
     friends,
-    clickedFriends: [],
+    // clickedFriends: [],
     score: 0,
     highscore: 0
   };
 
-    // Shuffle the friend cards when clicked
+  // Shuffle the friend cards when clicked
   clickedFriend = () => {
     const shuffle = this.state.friends;
 
     shuffle.forEach(() => {
-      this.setState({friend: shuffle.sort(() => Math.random() - 0.5)
+      this.setState({
+        friends: shuffle.sort(() => Math.random() - 0.5), score: this.state.score + 1
       })
     })
   };
+
 
   // Map over this.state.friends and render a FriendCard component for each friend object
   render() {
     return (
       <div>
-        <Navbar />
+        <Navbar 
+        score={this.state.score}
+        highscore={this.state.highscore}/>
         <Jumbotron />
+        <div className="container">
         <Wrapper>
 
           {this.state.friends.map(friend => (
@@ -41,7 +46,7 @@ class App extends Component {
               image={friend.image}
             />
           ))}
-        </Wrapper></div>
+        </Wrapper></div></div>
     );
   }
 }
