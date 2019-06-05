@@ -30,11 +30,10 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Navbar 
-        score={this.state.score}
-        highscore={this.state.highscore}/>
+        <Navbar
+          score={this.state.score}
+          highscore={this.state.highscore} />
         <Jumbotron />
-        <div className="container">
         <Wrapper>
 
           {this.state.friends.map(friend => (
@@ -46,7 +45,8 @@ class App extends Component {
               image={friend.image}
             />
           ))}
-        </Wrapper></div></div>
+        </Wrapper>
+      </div>
     );
   }
 }
