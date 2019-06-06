@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/clickygame/static/css/main.a9d97d82.chunk.css",
-    "main.js": "/clickygame/static/js/main.977ed4f6.chunk.js",
-    "main.js.map": "/clickygame/static/js/main.977ed4f6.chunk.js.map",
+    "main.css": "/clickygame/static/css/main.9f7b1ef1.chunk.css",
+    "main.js": "/clickygame/static/js/main.88691b7e.chunk.js",
+    "main.js.map": "/clickygame/static/js/main.88691b7e.chunk.js.map",
     "runtime~main.js": "/clickygame/static/js/runtime~main.bb8261cb.js",
     "runtime~main.js.map": "/clickygame/static/js/runtime~main.bb8261cb.js.map",
-    "static/js/2.6efc73d3.chunk.js": "/clickygame/static/js/2.6efc73d3.chunk.js",
-    "static/js/2.6efc73d3.chunk.js.map": "/clickygame/static/js/2.6efc73d3.chunk.js.map",
+    "static/js/2.603927d0.chunk.js": "/clickygame/static/js/2.603927d0.chunk.js",
+    "static/js/2.603927d0.chunk.js.map": "/clickygame/static/js/2.603927d0.chunk.js.map",
     "index.html": "/clickygame/index.html",
-    "precache-manifest.019fbe46561b32e3881b13a4b433ec38.js": "/clickygame/precache-manifest.019fbe46561b32e3881b13a4b433ec38.js",
+    "precache-manifest.352774eeeaff77e2c343603ea555b28d.js": "/clickygame/precache-manifest.352774eeeaff77e2c343603ea555b28d.js",
     "service-worker.js": "/clickygame/service-worker.js",
-    "static/css/main.a9d97d82.chunk.css.map": "/clickygame/static/css/main.a9d97d82.chunk.css.map",
+    "static/css/main.9f7b1ef1.chunk.css.map": "/clickygame/static/css/main.9f7b1ef1.chunk.css.map",
     "static/media/Mickey_Mouse.png": "/clickygame/static/media/Mickey_Mouse.240550a8.png",
     "static/media/bambi.png": "/clickygame/static/media/bambi.0efcfd0b.png",
     "static/media/daisy.png": "/clickygame/static/media/daisy.136e7ea6.png",
@@ -23,6 +23,7 @@
     "static/media/peter_pan.png": "/clickygame/static/media/peter_pan.b38c85c7.png",
     "static/media/pinocchio.png": "/clickygame/static/media/pinocchio.3dc64846.png",
     "static/media/pluto.png": "/clickygame/static/media/pluto.c686d46f.png",
-    "static/media/pooh.png": "/clickygame/static/media/pooh.39ee5295.png"
+    "static/media/pooh.png": "/clickygame/static/media/pooh.39ee5295.png",
+    "static/media/screenshot.png": "/clickygame/static/media/screenshot.785315ca.png"
   }
 }
