@@ -13,7 +13,7 @@ In this assignment, I created a web app that challenges users to a memory game.
 
 ## Live App
 [Click here to go to the live app!](https://jenerationx.github.io/clickygame/)
-![Screenshot of Clicky Game](https://github.com/jenerationx/clickygame/src/images/screenshot.png)
+![Screenshot of Clicky Game](https://github.com/jenerationx/clickygame/blob/master/src/images/screenshot.png)
 
 ## Technologies Utilized
 - React
